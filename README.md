@@ -9,4 +9,4 @@
 以下、閲覧用のリンクです。
 
 * 第2章「確率分布と統計モデルの最尤推定」
-  - https://nbviewer.jupyter.org/github/JikanBae/togami_bss_julia/blob/master/ch02.ipynb
+  - https://nbviewer.jupyter.org/github/JikanBae/togami_bss_julia/blob/main/ch02.ipynb
