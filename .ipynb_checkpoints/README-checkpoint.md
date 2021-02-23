@@ -10,5 +10,3 @@
 
 * 第2章「音声処理の基礎」
   - https://nbviewer.jupyter.org/github/JikanBae/togami_bss_julia/blob/main/ch02.ipynb
-* 第3章「音源分離で用いられる数学的知識の基礎」
-  - https://nbviewer.jupyter.org/github/JikanBae/togami_bss_julia/blob/main/ch03.ipynb
